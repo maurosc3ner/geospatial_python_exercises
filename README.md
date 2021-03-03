@@ -4,7 +4,7 @@ Nowadays, geospatial data is becoming the queen of data scientists. For remote s
 
 With projects, theses, new packages (rasterio, shapely or geopandas), or companies on its shoulders. GDAL has stood as the main geospatial library out there for years or even decades. Initially implemented in C/C++, GDAL is guilty of numerous successes in the geospatial community. 
 
-![Cincinnati NDVI](https://user-images.githubusercontent.com/4038971/109749735-37c0be00-7ba9-11eb-9bfb-e8bf612b78f2.PNG)
+![Greater Cincinnati](https://user-images.githubusercontent.com/4038971/109750294-2deb8a80-7baa-11eb-89c2-8bbf7d29869f.png)
 
 As with any other low-level library, it is far from being easy with a stepped learning curve, especially in vector data. However, I will start adding some basic examples in geospatial tasks from the bottom-up perspective. Those examples will be driven by my curiosity and the necessity to create well-documented examples in Python 3. I plan to add examples to my playground repo incrementally. 
 
