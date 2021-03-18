@@ -15,6 +15,6 @@ Learn common geographical tasks (transform, clipping, vector manipulation, zona 
 Improve my python skills due to the fact that I have been habituated to R for GIS tasks.
 
 ## References
-1. In the meantime,  this is the first exercise [GDAL intro](https://duckduckgo.com "NDVI, transformation and clipping").
+1. In the meantime,  this is the first exercise [GDAL intro](https://github.com/maurosc3ner/gdal_python_exercises/blob/main/gdal_basics.ipynb "NDVI, transformation and clipping").
 2. For the proper installation of gdal env you can check this [tutorial](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40nathancook_36247%2Flaunching-jupyter-notebook-from-the-command-line-can-be-more-powerful-than-using-anaconda-navigator-c7425cf1fd8a&sa=D&sntz=1&usg=AFQjCNHkVXiZUkzS6ZT2upfiqwIlVp_TKg)
 3. API and documentation is at https://gdal.org/ 
