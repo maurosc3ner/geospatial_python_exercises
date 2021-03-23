@@ -1,8 +1,8 @@
-# Using GDAL in Python
+# Geospatial in Python
 
 Nowadays, geospatial data is becoming the queen of data scientists. For remote sensing, earth conservation, or Health as in my research (effect of long-term pollutants), geospatial and particularly raster datasets are generated every day, minutes, and seconds by several satellites.
 
-With projects, theses, new packages (rasterio, shapely or geopandas), or companies on its shoulders. GDAL has stood as the main geospatial library out there for years or even decades. Initially implemented in C/C++, GDAL is guilty of numerous successes in the geospatial community. 
+With projects, theses, new packages (rasterio, shapely or geopandas), or companies on its shoulders. GDAL has stood as the main geospatial library out there for years or even decades. Initially implemented in C/C++, GDAL is guilty of numerous successes in the geospatial community. Therefore, several of my examples will try to combine GDAL and other libraries.
 
 ![Greater Cincinnati](https://user-images.githubusercontent.com/4038971/109750294-2deb8a80-7baa-11eb-89c2-8bbf7d29869f.png)
 
